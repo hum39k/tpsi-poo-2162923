@@ -28,30 +28,6 @@ else if (nota <= 20) cout << "Muito Bom /n";
 
 else cout << "Nota nao valida /n"; 
 
- 
-
-system("PAUSE"); 
-
-} 
-
-
-int x;
-
-
-main(){
-    while(x<=5){
-
-        cout << x*2;
-        x++;
-        
-    }
 
 }
 
-
-main(){
-    int i;
-    for(i=1;i<=5;1++){
-        cout << x*2;
-    }
-}
